@@ -63,6 +63,8 @@ class ReviewsComponent extends Component {
         this.setState({viewedReview, showApprovalAlert, showRejectionAlert, confirmation:action})
     }
 
+    
+
 
     // This method retrieves all reviews
     getAllReviews = async () =>{
