@@ -7,8 +7,9 @@ const Home = lazy(() => import("./Home"));
 
 const publicRoutes = [
   {
-    path: "/home",
+    path: "/",
     component: Home,
+    exact:true
   }
 
 ];
