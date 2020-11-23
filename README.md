@@ -2,13 +2,13 @@
 
 Download or Clone;
 
-##Front-End
+## Front-End
 cd web -> npm install -> npm run start
 
-##Backend
+## Backend
 cd server -> npm install -> npm run start
 
-##Dependencies:
+## Dependencies:
 -> node
 -> mongoDB
 
