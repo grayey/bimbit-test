@@ -87,6 +87,9 @@ export const Home = (props)=> {
                 <div className="row h-100">
                     <div className="col-12 my-auto">
                     <div className="masthead-content text-white py-5 py-md-0">
+                        <div className='float-right'>
+                            <a className='btn btn-secondary mt-3' href='dashboard'>Login</a>
+                        </div>
                         <h1 className="mb-3">Bimbi Org!</h1>
                         <p className="mb-5">Now that you have come, please provide a brief review.</p>
                         <div className="form-group">
